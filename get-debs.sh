@@ -12,3 +12,4 @@ wget http://ftp.debian.org/debian/pool/main/m/mutter/libmutter-14-0_46.2-1_amd64
 wget http://ftp.debian.org/debian/pool/main/g/gnome-shell/gnome-shell-common_46.2-1_all.deb
 wget http://ftp.debian.org/debian/pool/main/g/gnome-shell/gnome-shell-extension-prefs_46.2-1_amd64.deb
 wget http://ftp.debian.org/debian/pool/main/g/gnome-remote-desktop/gnome-remote-desktop_46.2-1_amd64.deb
+wget http://ftp.debian.org/debian/pool/main/x/xdg-desktop-portal-gnome/xdg-desktop-portal-gnome_46.2-1_amd64.deb
