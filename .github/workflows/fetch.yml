@@ -35,6 +35,6 @@ jobs:
 
       - name: Attest release files
         id: attest
-        uses: actions/attest-build-provenance@v1
+        uses: actions/attest-build-provenance@v2
         with:
           subject-path: '*.deb'
